@@ -1,4 +1,9 @@
 #include <iostream>
 
+using std::cout;
+using std::endl;
+
 int main() {
-    std::cout << "Hello, Git!" << std::endl;
+    cout << "Hello, Git!" << endl;
+    return 0;
+}
