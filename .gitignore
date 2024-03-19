@@ -1,0 +1,11 @@
+#ignore all doc files
+
+*.doc
+
+#ignore side 
+
+side.txt
+
+#ignore readme
+
+README.md
